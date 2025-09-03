@@ -37,7 +37,7 @@ cloud:
 
 
 jwt:
-  expirationAt: 10000
+  expirationAt: 1000
   secretKeyAt : xx
   expirationRt: 10000
   secretKeyRt: yy
